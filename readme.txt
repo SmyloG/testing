@@ -15,6 +15,7 @@ dynamiclightsreforged-1.18.2_v1.3.3	- benötigt Rubidium, erlaubt Dynamische Lic
 
 --Changelog--
 [03.08.2022]
+added MouseTweaks-forge-mc1.18-2.21
 added artifacts-1.18.2-4.0.7
 added baubley-heart-canisters-1.18.2-1.0.0
 added expandability-6.0.0
