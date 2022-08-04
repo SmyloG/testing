@@ -2,7 +2,7 @@ Minecraft 1.18.2
 Forge 40.1.68
 
 --Installation--
-Wie eine normale Mod Installation. Die Mods von diesen Mod Ordner zu den Minecraft Mod ordner verschieben. Bei Nachfrage ünerschreiben.
+Wie eine normale Mod Installation. Die Mods von diesen "mods" Ordner zu den Minecraft "mods" Ordner verschieben. Bei Nachfrage überschreiben.
 
 --Optionale Mods--
 Optionale Mods die nicht benötigt werden. Aber unter umständen hilfreich seiun könnte.
