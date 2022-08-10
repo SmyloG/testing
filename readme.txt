@@ -14,6 +14,9 @@ dynamiclightsreforged-1.18.2_v1.3.3	- benötigt Rubidium, erlaubt Dynamische Lic
 --Bei Fragen oder Probleme, bitte wende dich an deinen nähesten Michael--
 
 --Changelog--
+[10.08.2022]
+added voicechat-forge-1.18.2-2.3.2
+
 [03.08.2022]
 added MouseTweaks-forge-mc1.18-2.21
 added artifacts-1.18.2-4.0.7
